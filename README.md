@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7AFFF&center=true&vCenter=true&width=600&lines=Hello+there%2C+I'm+Merve+Tağcı+%F0%9F%91%8B;Frontend+%2B+Backend+Developer;Angular+%7C+PrimeNG+%7C+Java+%7C+Spring+Boot;Clean+Architecture+Enthusiast" />
 </p>
 
-<h5 align="center">
+<p align="center">
   <code>
     <a href="https://www.linkedin.com/in/merve-tagci/" title="LinkedIn Profile">
       <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn
@@ -20,7 +20,7 @@
       <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/medium.svg"> Medium
     </a>
   </code>
-</h5>
+</p>
 
 
 ---
