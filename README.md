@@ -1,9 +1,9 @@
 <!-- Visitor Badge -->
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mervetagci"> -->
 
-<h1 align="center">
+<h2 align="center">
   Hi! I'm Merve 👋
-</h1>
+</h2>
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/merve-tagci/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
