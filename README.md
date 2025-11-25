@@ -1,14 +1,14 @@
 <!-- Visitor Badge -->
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mervetagci"> -->
 
-<h3 align="center">
-  Hello there, I'm Merve 👋
-</h3>
+<h1 align="center">
+  Hi! I'm Merve 👋
+</h1>
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/merve-tagci/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/profile/mervetagci" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://medium.com/@mervetagci" title="Medium Profile"><img width="22" src="https://github.com/mervetagci/mervetagci/assets/images/icons/medium.svg"> Medium</a></code>
+  <!-- <code><a href="https://medium.com/@mervetagci" title="Medium Profile"><img width="22" src="https://github.com/mervetagci/mervetagci/blob/main/assets/images/icons/medium.svg"> Medium</a></code> -->
   <!-- <code><a href="" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code> -->
 </h5>
 
@@ -39,13 +39,12 @@ Hi, I'm **Merve Tağcı**, an **Angular & Java/Spring Boot Developer** from Turk
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mervetagci&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mervetagci&theme=radical" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervetagci&layout=compact&theme=radical" />
-</p>
+</p> -->
 
 ---
 
