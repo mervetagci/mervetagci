@@ -42,9 +42,14 @@ Hi, I'm **Merve Tağcı**, an **Angular & Java/Spring Boot Developer** from Turk
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mervetagci&theme=radical" />
 </p>
 
+---
+
+## 🟦 GitLab Activity Heatmap
+
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervetagci&layout=compact&theme=radical" />
+  <img src="gitlab-heatmap.svg" alt="GitLab Heatmap" width="900">
 </p>
+
 
 ---
 
