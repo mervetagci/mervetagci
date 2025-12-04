@@ -52,7 +52,7 @@ Hi, I'm **Merve Tağcı**, an **Angular & Java/Spring Boot Developer** from Turk
 
 <p align="center">
   <sub>
-    🔒 GitLab kurumsal alanı dış erişime kapalı olduğundan, aktiviteler GitHub Actions yerine local script ile üretilip otomatik olarak güncellenmektedir.
+    🔒 Since the corporate GitLab instance is restricted from external access, the activity heatmap is generated locally via a script instead of GitHub Actions, and is updated automatically.
   </sub>
 </p>
 
