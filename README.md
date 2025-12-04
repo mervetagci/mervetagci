@@ -44,10 +44,16 @@ Hi, I'm **Merve Tağcı**, an **Angular & Java/Spring Boot Developer** from Turk
 
 ---
 
-## 🟦 GitLab Activity Heatmap
+## <img width="22" src="https://github.com/mervetagci/mervetagci/blob/main/assets/images/icons/gitlab-icon.svg"> GitLab Activity Heatmap
 
 <p align="center">
   <img src="gitlab-heatmap.svg" alt="GitLab Heatmap" width="900">
+</p>
+
+<p align="center">
+  <sub>
+    🔒 GitLab kurumsal alanı dış erişime kapalı olduğundan, aktiviteler GitHub Actions yerine local script ile üretilip otomatik olarak güncellenmektedir.
+  </sub>
 </p>
 
 
