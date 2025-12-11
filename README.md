@@ -35,7 +35,7 @@ Hi, I'm **Merve Tağcı**, an **Angular & Java/Spring Boot Developer** from Turk
 </p>
 
 ---
-
+  <!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -43,7 +43,7 @@ Hi, I'm **Merve Tağcı**, an **Angular & Java/Spring Boot Developer** from Turk
 </p>
 
 ---
-
+-->
 ## <img width="22" src="https://github.com/mervetagci/mervetagci/blob/main/assets/images/icons/gitlab-icon.svg"> GitLab Activity Heatmap
 
 <p align="center">
