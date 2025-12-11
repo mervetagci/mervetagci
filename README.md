@@ -57,7 +57,7 @@ Hi, I'm **Merve Tağcı**, an **Angular & Java/Spring Boot Developer** from Turk
 </p>
 <p align="center">
   <sub>
-    🔒 GitLab kurumsal alanı dış erişime kapalı olduğundan, aktiviteler GitHub Actions yerine local script ile üretilip otomatik olarak güncellenmektedir. bunu ingilizceye çevirmemiz gerek
+    🔒 GitLab kurumsal alanı dış erişime kapalı olduğundan, aktiviteler GitHub Actions yerine local script ile üretilip otomatik olarak güncellenmektedir.
   </sub>
 </p>
 
